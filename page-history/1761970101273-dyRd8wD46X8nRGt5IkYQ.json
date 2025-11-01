@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "branding": {
+    "name": "ai game builder",
+    "primary": "#ff3c47",
+    "secondary": "#ff3ca8",
+    "accent": "#ff923c",
+    "background": "#ffffff",
+    "text": "#1a1a1a",
+    "fontFamily": "Rubik, system-ui, sans-serif",
+    "tone": "friendly"
+  },
+  "goal": "lead-collection",
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "eyebrow": "Beta Access",
+      "headline": "Build playable games from your ideas in minutes",
+      "subheadline": "AI turns simple prompts into coherent art, mechanics, and levels you can export.",
+      "background": {
+        "color": "#ff3c47",
+        "pattern": "gradient",
+        "emphasis": "medium"
+      }
+    },
+    {
+      "id": "problem",
+      "type": "problem",
+      "eyebrow": "The Bottlenecks",
+      "headline": "Making games is slow, complex, and expensive",
+      "subheadline": "Assets, logic, and levels rarely click on the first try.",
+      "body": "Indie teams, students, and creators lose weeks stitching art, code, physics, and UI—then redoing exports for engines.",
+      "bullets": [
+        "Vague ideas don’t translate into working mechanics",
+        "Assets clash across art, audio, and scripts",
+        "Playability issues surface late in testing",
+        "Exports to Unity/Godot break or need rework"
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "solution",
+      "type": "solution",
+      "eyebrow": "The Fix",
+      "headline": "An AI builder that ships a game-ready prototype",
+      "subheadline": "From prompt to playable, then tweak, test, and export.",
+      "body": "Describe your vision. Get a coherent loop, assets, and levels. Edit with an intuitive UI, auto-test for bugs, and export cleanly.",
+      "bullets": [
+        "Prompt in plain language—no code needed",
+        "Coherent art, audio, and logic by default",
+        "One-click exports to Unity and Godot"
+      ],
+      "background": {
+        "color": "#ff3ca8",
+        "pattern": "diagonal",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "features",
+      "type": "features",
+      "eyebrow": "Key Capabilities",
+      "headline": "Everything you need to go from idea to demo",
+      "subheadline": "Fast, coherent, and exportable by design.",
+      "items": [
+        {
+          "title": "Prompt‑to‑Prototype",
+          "description": "Describe your game and get a playable loop with levels in minutes.",
+          "highlight": true
+        },
+        {
+          "title": "Coherent Asset Pack",
+          "description": "AI generates art, audio, and scripts that align with your mechanics."
+        },
+        {
+          "title": "One‑Click Export",
+          "description": "Export to Unity or Godot with clean folders and metadata."
+        },
+        {
+          "title": "Playtest & Autotune",
+          "description": "Built-in tests catch bugs; AI balances difficulty and pacing."
+        }
+      ],
+      "supportingCopy": "Ideal for indie teams, educators, agencies, and creators who need results fast.",
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "testimonials",
+      "type": "testimonials",
+      "eyebrow": "Social Proof",
+      "headline": "Creators are shipping faster with AI Game Builder",
+      "testimonials": [
+        {
+          "quote": "We went from napkin sketch to a playable vertical slice in a weekend.",
+          "name": "Jin Park",
+          "title": "Solo Dev",
+          "company": "Indie Studio"
+        },
+        {
+          "quote": "Students finally test design ideas, not debug export issues. Huge win.",
+          "name": "Prof. Maria Lopez",
+          "title": "Game Design Instructor",
+          "company": "State University"
+        }
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "cta",
+      "type": "cta",
+      "eyebrow": "Ready to build?",
+      "headline": "Join the early access to build your first game",
+      "subheadline": "Be the first to prototype, playtest, and export—no code needed.",
+      "bullets": [
+        "Limited beta invites for indie devs and educators",
+        "Priority support and onboarding",
+        "Your feedback shapes the roadmap"
+      ],
+      "background": {
+        "color": "#ff923c",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    }
+  ]
+}
